@@ -1,0 +1,10 @@
+{
+  "name": "Declan",
+  "age": 9,
+  "is_active_on_github": true,
+  "skills": ["HTML, analyzing other formonts of code"],
+  "address": {
+    "city": "Virginia Beach",
+    "state": "VA"
+  }
+}
