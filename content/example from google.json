@@ -1,0 +1,10 @@
+{
+  "name": "Alex",
+  "age": 28,
+  "is_active": true,
+  "skills": ["Python", "JSON"],
+  "address": {
+    "city": "Virginia Beach",
+    "state": "VA"
+  }
+}
